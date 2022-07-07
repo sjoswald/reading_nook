@@ -21,3 +21,5 @@ gem "rack", "~> 2.2"
 gem "spec", "~> 5.3"
 
 gem "rack-test", "~> 2.0"
+
+gem 'rspec_junit_formatter'
