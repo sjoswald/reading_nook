@@ -1,0 +1,22 @@
+body {
+    background-color: #D8E1FD
+}
+
+h1 {color: rgb(150, 63, 150);
+text-align: center;}
+
+h2 {color: rgb(150, 63, 150);
+    text-align: center;}
+
+/* Create three equal columns that float next to each other
+.column {
+    float: left;
+    width: 33.33%;
+  }
+  
+  /* Clear floats after the columns */
+  /* .row:after {
+    content: "";
+    display: table;
+    clear: both;
+  } */ 
