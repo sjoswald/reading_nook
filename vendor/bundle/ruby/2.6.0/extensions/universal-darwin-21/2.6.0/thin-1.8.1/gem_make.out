@@ -1,0 +1,18 @@
+current directory: /Users/stacy.oswald/Documents/Projects/Ruby/sinatra_library/vendor/bundle/ruby/2.6.0/gems/thin-1.8.1/ext/thin_parser
+/System/Library/Frameworks/Ruby.framework/Versions/2.6/usr/bin/ruby -I /System/Library/Frameworks/Ruby.framework/Versions/2.6/usr/lib/ruby/2.6.0 -r ./siteconf20220707-21905-65bl2r.rb extconf.rb
+checking for main() in -lc... yes
+creating Makefile
+
+current directory: /Users/stacy.oswald/Documents/Projects/Ruby/sinatra_library/vendor/bundle/ruby/2.6.0/gems/thin-1.8.1/ext/thin_parser
+make "DESTDIR=" clean
+
+current directory: /Users/stacy.oswald/Documents/Projects/Ruby/sinatra_library/vendor/bundle/ruby/2.6.0/gems/thin-1.8.1/ext/thin_parser
+make "DESTDIR="
+compiling parser.c
+compiling thin.c
+linking shared-object thin_parser.bundle
+ld: warning: directory not found for option '-L/AppleInternal/Library/BuildRoots/6c37ac75-8bce-11ec-9b2f-4a23b0182bfd/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX12.4.Internal.sdk/usr/local/lib'
+
+current directory: /Users/stacy.oswald/Documents/Projects/Ruby/sinatra_library/vendor/bundle/ruby/2.6.0/gems/thin-1.8.1/ext/thin_parser
+make "DESTDIR=" install
+/usr/bin/install -c -m 0755 thin_parser.bundle ./.gem.20220707-21905-18t082t
