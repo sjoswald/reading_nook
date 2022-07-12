@@ -23,3 +23,4 @@ gem "spec", "~> 5.3"
 gem "rack-test", "~> 2.0"
 
 gem 'rspec_junit_formatter'
+gem "pg", "~> 1.4"
