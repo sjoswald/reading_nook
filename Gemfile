@@ -24,3 +24,5 @@ gem "rack-test", "~> 2.0"
 
 gem 'rspec_junit_formatter'
 gem "pg", "~> 1.4"
+
+gem "dotenv", "~> 2.7"
